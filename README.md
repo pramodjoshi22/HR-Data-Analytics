@@ -1,4 +1,4 @@
-# Power BI HR Data Analytics-Visualizing Employee Attrition
+# PowerBI HR Data Analytics-Visualizing Employee Attrition
 
 ## Introduction
 
