@@ -1,4 +1,4 @@
-#Power BI HR Data Analytics - Visualizing Employee Attrition
+**Power BI HR Data Analytics-Visualizing Employee Attrition**
 
 The Power BI HR Data Analytics project is a comprehensive and insightful exploration of employee attrition within the company. This project focuses on leveraging the power of Power BI, a leading business intelligence tool, to create dynamic and interactive visualizations that shed light on the patterns, trends, and underlying factors contributing to employee departures. By harnessing the capabilities of Power BI, the project aims to provide key stakeholders, including HR managers, department heads, and executives, with actionable insights that can inform strategic decisions and improve employee retention.
 
