@@ -35,8 +35,9 @@ The primary goal of this project is to visualize and analyze employee attrition 
 ## Data Model
 <img src="HR_data_analytics.png">
 
-### In conclusion, this Power BI HR Data Analytics project revolves around visualizing employee attrition data to provide a holistic view of trends, demographics, contributing factors, and predictive insights. Through interactive dashboards and detailed visualizations, this project aims to equip stakeholders with the tools needed to devise effective strategies for retaining talent, enhancing workplace satisfaction, and bolstering organizational success.
 
+``` In conclusion, this Power BI HR Data Analytics project revolves around visualizing employee attrition data to provide a holistic view of trends, demographics, contributing factors, and predictive insights. Through interactive dashboards and detailed visualizations, this project aims to equip stakeholders with the tools needed to devise effective strategies for retaining talent, enhancing workplace satisfaction, and bolstering organizational success.
+```
 
 
 
